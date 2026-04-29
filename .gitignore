@@ -1,0 +1,14 @@
+# Visual Studio local settings
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# Output / temp
+*.log
