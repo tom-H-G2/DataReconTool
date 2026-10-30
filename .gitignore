@@ -12,3 +12,4 @@ venv/
 
 # Output / temp
 *.log
+/env
